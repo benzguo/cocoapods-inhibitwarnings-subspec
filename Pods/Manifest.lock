@@ -1,0 +1,10 @@
+PODS:
+  - FormatterKit/TimeIntervalFormatter (1.5.3)
+
+DEPENDENCIES:
+  - FormatterKit/TimeIntervalFormatter (~> 1.5.0)
+
+SPEC CHECKSUMS:
+  FormatterKit: d24749883703104a69d14b83f22281555e7371ed
+
+COCOAPODS: 0.34.4
